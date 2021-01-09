@@ -1,6 +1,9 @@
 # Two-Sum-Algorithm-and-My-Solution
 My code which solves a Two sum algorithm
- The algorithm: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+
+
+The algorithm: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 You may assume that each input will have at most one solution, and you may not use the same index twice.
 
