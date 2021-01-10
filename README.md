@@ -20,16 +20,16 @@ Explanation: nums[0] + nums[1] = 2 + 7 = 9
 
 Steps:
  Step # 1 / 5
-Using an index i, iterate over the indices of nums
+Using an index i, iterated over the indices of nums.
  
  Step # 2 / 5
-Using an index j, iterate over the indices of nums starting from index i + 1
+Using an index j, next, iterated over the indices of nums starting from index i + 1.
  
  Step # 3 / 5
-Write an if statement that checks if nums[i] + nums[j] is equal to target
+Wrote out  an if statement that checked to see  if nums[i] + nums[j] is going to be  equal to target
  
  Step # 4 / 5
-Return the pair (i, j)
+Returned the pair (i, j)
  
  Step # 5 / 5
-Finally, return the pair (-1, -1) in case the search terminates with no valid solution
+Finally, returned the pair (-1, -1) in case the search terminates with no valid solution.
